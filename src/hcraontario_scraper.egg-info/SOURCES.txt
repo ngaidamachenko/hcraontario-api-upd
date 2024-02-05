@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/hcraontario/Hcraontario.py
+src/hcraontario/__init__.py
+src/hcraontario_scraper.egg-info/PKG-INFO
+src/hcraontario_scraper.egg-info/SOURCES.txt
+src/hcraontario_scraper.egg-info/dependency_links.txt
+src/hcraontario_scraper.egg-info/requires.txt
+src/hcraontario_scraper.egg-info/top_level.txt

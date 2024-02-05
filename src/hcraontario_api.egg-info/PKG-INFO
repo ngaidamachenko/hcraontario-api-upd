@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: hcraontario-api
+Version: 0.1.0
+Summary: The `hcraontario-api` is designed for seamless interaction with the hcraontario.ca API
+Home-page: https://github.com/Diego-Arrechea/hcraontario-api
+Author: Diego Arrechea
+Author-email: diego.arrechea.job@gmail.com
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
 # HCRA Ontario API
 
 ## Introduction
