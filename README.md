@@ -59,7 +59,7 @@ Conduct searches for builders based on specific criteria.
 - A list of dictionaries, each representing a builder that matches the search criteria.
 
 ```python
-search_results = api.search_builder(builderName="Doe Constructions", builderLocation="Toronto")
+search_results = api.search_builder(builderLocation="Toronto")
 print(search_results)
 ```
 
@@ -68,7 +68,7 @@ print(search_results)
 Retrieve comprehensive information about a specific builder using their unique ID.
 
 ```python
-builder_info = api.get_data(ID="B60767")
+builder_info = api.get_builder_detail(ID="B60767")
 print(builder_info)
 ```
 
