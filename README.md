@@ -18,8 +18,6 @@ To install `hcraontario-API`, you need to have Python installed on your machine.
 pip install hcraontario-api
 ```
 
-(Note: This package is hypothetical and the installation command is for demonstration purposes.)
-
 ## Usage
 
 ### Importing the Module
