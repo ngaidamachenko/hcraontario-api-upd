@@ -1,1 +1,4 @@
 requests
+pandas
+os
+sqlite3
